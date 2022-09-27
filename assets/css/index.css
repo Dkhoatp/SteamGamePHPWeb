@@ -1,0 +1,115 @@
+
+.header {
+    background-color: #171A21;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-decoration: none solid rgb(198, 212, 223);
+    word-spacing: 0px;
+    background-position: 0% 0%;
+    color: #C6D4DF;
+    height: auto;
+    transform: none;
+    padding: 1% 0 1% 0%;
+}
+.nav_sl{
+    font-family: "Motiva Sans", sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 16px;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-align: center;
+    text-indent: 0px;
+    white-space: normal;
+    word-spacing: 0px;
+    margin-right: 3%;
+    
+}
+
+.nav_conent {
+    font-family: "Motiva Sans", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 16px;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-align: center;
+    text-indent: 0px;
+    white-space: normal;
+    word-spacing: 0px;
+
+    /* Color & Background */
+    background-attachment: scroll;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    background-position: 0% 0%;
+    background-repeat: repeat;
+    color: rgb(255, 255, 255);
+
+
+    /* Positioning */
+    position: relative;
+    top: 40%;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    float: left;
+    display: block;
+    clear: none;
+    z-index: auto;
+    margin-right: 5%;
+
+    /* List */
+    list-style-image: none;
+    list-style-type: disc;
+    list-style-position: outside;
+
+    /* Table */
+    border-collapse: separate;
+    border-spacing: 0px 0px;
+    caption-side: top;
+    empty-cells: show;
+    table-layout: auto;
+
+    /* Miscellaneous */
+    overflow: visible;
+    cursor: pointer;
+    visibility: visible;
+
+
+}
+.content {
+    background-color: #1C2D46;
+    color: rgb(197,195,192);
+    background-position: 0% 0%;
+    height:100vh;
+    text-align: center;
+      
+}
+.table{
+    color: rgb(197,195,192);
+     text-align: center;
+     align-items: center;
+}
+.form-group{
+   
+    float: right;
+    width: 100%;
+    margin-bottom: 1%;
+}
+
+.btn-primary{
+    float:right;
+    margin-top: 0%;
+   
+}
+.seach{
+    float:right;
+    margin-top: 0%;
+    height: 4.2vh;
+
+}

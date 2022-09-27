@@ -1,0 +1,53 @@
+body{
+    font-family: arial;
+    padding:0;
+    margin: 0;
+}
+h3{
+    text-align: center;
+    margin: 0;
+}
+h1::selection{
+    background:#fff;
+    color: #2980b9;
+}
+#main{
+    width: 100%;
+    margin: 0 auto;
+    background: white;
+    font-size: 15px;
+}
+#header{
+    background: #1C2D46;
+    color: #000;
+    padding: 15px;
+}
+
+#table-data{
+    background: #1C2D46;
+    padding: 15px;
+    min-height: 500px;
+}
+#table-data th{
+    background:#5374ab;
+    color: #fff;
+}
+#table-data tr:nth-child(odd){ 
+    background: #263c5d;
+}
+#pagination{
+    text-align: center;
+    padding: 10px;
+}
+#pagination a{
+    background: #5374ab;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    padding:5px 10px;
+    margin-right: 5px;
+    border-radius: 3px;
+}
+#pagination a.active{
+    background: #5374ab;
+}

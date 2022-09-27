@@ -1,0 +1,17 @@
+.left{
+    margin-top:1%;
+    height:40%;
+    width: 50%;
+    float: left;
+}
+.right{
+    margin-top:1%;
+    height:40%;
+    width: 50%;
+    float: right;
+}
+.conent_a{
+    color: white;
+    float: left;
+    margin: 1%;
+}

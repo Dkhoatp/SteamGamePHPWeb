@@ -1,0 +1,19 @@
+.create{
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+}
+.form-control{
+    width: 75%;
+    float: right;
+}
+.form{
+    margin: 2% 0% 5% 3%;
+}
+
+.btn{
+    width: 98%;
+     margin-left: 2%;
+     font-size: 1em;
+     border-radius: 10px;
+}
